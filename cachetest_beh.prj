@@ -1,0 +1,5 @@
+vhdl work "sram.vhd"
+vhdl work "sdram_controller.vhd"
+vhdl work "CPU_gen.vhd"
+vhdl work "cache_controller.vhd"
+vhdl work "test_cache_controller.vhd"

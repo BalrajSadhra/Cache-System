@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/cacheController.ncd
+OUTFILE=/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/cacheController.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller
+LICENSE=ISE
+USER_INFO=175353682_174116511_210722484_808

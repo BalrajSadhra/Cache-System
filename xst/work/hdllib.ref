@@ -1,0 +1,13 @@
+AR sdram_controller behavioural "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/sdram_controller.vhd" sub00/vhpl08 1698385123
+AR ila ila_a "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/ipcore_dir/ila.vhd" sub00/vhpl12 1698385127
+EN cachecontroller NULL "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/cache_controller.vhd" sub00/vhpl03 1698385128
+AR sram behavioural "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/sram.vhd" sub00/vhpl05 1698385121
+AR icon icon_a "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/ipcore_dir/icon.vhd" sub00/vhpl10 1698385125
+EN cache_controller NULL "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/cache_controller.vhd" sub00/vhpl02 1697227445
+EN icon NULL "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/ipcore_dir/icon.vhd" sub00/vhpl09 1698385124
+EN cpu_gen NULL "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/CPU_gen.vhd" sub00/vhpl00 1698385118
+AR cachecontroller behavioural "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/cache_controller.vhd" sub00/vhpl06 1698385129
+EN sram NULL "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/sram.vhd" sub00/vhpl04 1698385120
+AR cpu_gen behavioral "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/CPU_gen.vhd" sub00/vhpl01 1698385119
+EN sdram_controller NULL "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/sdram_controller.vhd" sub00/vhpl07 1698385122
+EN ila NULL "/home/student2/s22srith/coe758/project 1/Cache Controller/Cache_Controller/ipcore_dir/ila.vhd" sub00/vhpl11 1698385126

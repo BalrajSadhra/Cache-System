@@ -1,0 +1,4 @@
+vhdl isim_temp "sram.vhd"
+vhdl isim_temp "sdram_controller.vhd"
+vhdl isim_temp "CPU_gen.vhd"
+vhdl isim_temp "cache_controller.vhd"
